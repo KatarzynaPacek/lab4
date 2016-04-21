@@ -7,3 +7,6 @@ Wiemy, że dla każdej liczby naturalnej `n` możemy znaleźć taką liczbę `
 
 #Zadanie końcowe
 Połącz oba programy tak, aby jako argument wiersza poleceń przekazywać do niego `n`, a podsumowanie poszukiwań `k` oraz wynik iloczynu wyświetlić użytkownikowi w postaci polskich liczebników.
+
+Opis zadania:
+Dla zadanego n sprawdzamy postać iloczynu n*k dla kolejnych wartości całkowitych k począwszy od 1. W przypadku sukcesu przerywamy algorytm i wypisujemy wynik. 
